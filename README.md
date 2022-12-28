@@ -19,7 +19,7 @@
 
 <h4 align="left">🏢 my resume - <a href="https://ulyanovsk.hh.ru/resume/9577af45ff0b5f99e10039ed1f556c33637875" target="_blank">headhunter</a></h4>
 <h4 align="left">💬 contact me - <a href="mailto:bostbotbeet@gmail.com">gmail</a> , <a href="https://t.me/+79867359659" target="_blank">telegramm</a> , 
-  <a href="https://www.linkedin.com/in/fedor-vinetsky/" target="_blank">linkedin.com</a> 
+
      
 </h4>
 <h4 align="left">🌱 i'm currently learning - web, python</h4>
